@@ -1,0 +1,10 @@
+body{
+  background: url(https://mobile.photoprocenter.ru/files/4552_0.jpg);
+  background-size: 100%;
+  no-repeat;
+}
+#privet{
+  color:red;
+  font-family: Comic Sans MS;
+  font-size: 24px;  
+}
